@@ -1,0 +1,30 @@
+label {
+    font-weight: bolder;
+}
+::placeholder {
+    color: rgb(0, 63, 102) !important;
+    opacity: 3;
+}
+::-webkit-input-placeholder {
+    color:  rgba(119, 0, 255, 0.541) !important;
+}
+:-moz-placeholder {
+    color:  rgb(0, 70, 114) !important;
+    opacity:  3;
+ }
+ h1 {
+     text-align: center;
+ }
+ #msg {
+     height: 60px;
+ }
+ #grid-contatos tbody {
+     cursor: pointer;
+ }
+ body{
+    color: rgb(255, 251, 188)
+ }
+ body{
+     background-image: url(https://wallpapercave.com/dwp1x/wp4247401.jpg);
+     background-size: 100%;
+ }
